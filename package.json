@@ -1,0 +1,1 @@
+{\n  "name": "daein-portfolio",\n  "version": "1.0.0",\n  "private": true,\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "vue": "/vue@next"\n  },\n  "devDependencies": {\n    "vite": "latest",\n    "@vitejs/plugin-vue": "latest"\n  }\n}
