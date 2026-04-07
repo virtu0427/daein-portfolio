@@ -1,0 +1,9 @@
+# Node.js + Vite
+
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
